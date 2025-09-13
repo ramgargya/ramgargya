@@ -30,29 +30,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat\&logo=github\&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-
-### 📌 [JobBridge - Job Portal](https://github.com/ramgargya/jobbridge)
-
-🔹 A job portal where companies post jobs & users apply.<br>
-⚙️ **Stack:** Spring Boot, MySQL, Thymeleaf<br>
-✨ **Features:** Authentication, Job Posting, Search & Apply
-
-### 📌 [Expense Tracker](https://github.com/ramgargya/expense-tracker)
-
-🔹 Track daily expenses with categories and analytics.<br>
-⚙️ **Stack:** Spring Boot, MongoDB, REST API<br>
-✨ **Features:** Expense logging, history, and reports
-
-### 📌 [Portfolio Website Backend](https://github.com/ramgargya/portfolio-backend)
-
-🔹 Personal portfolio backend built with Spring Boot.<br>
-⚙️ **Stack:** Spring Boot, MySQL<br>
-✨ **Features:** Resume, Projects, Skills management
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=ramgargya\&theme=radical\&show_icons=true\&hide_border=false\&count_private=true)<br>
