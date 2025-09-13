@@ -5,7 +5,6 @@
 🛠️ Experienced with **MySQL, MongoDB, Redis**, and deploying with **Docker & Cloud**.<br>
 📚 Currently exploring **Microservices, DevOps, and Cloud technologies**.<br>
 🤝 Open to collaborating on **backend projects, open-source, and innovative ideas**.<br>
-🚀 Goal: Contribute to impactful projects and grow into a **15+ LPA Backend Role**.
 
 ---
 
