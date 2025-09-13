@@ -1,16 +1,82 @@
-## Hi there 👋
+# 💫 About Me
 
-<!--
-**ramgargya/ramgargya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Backend Java Developer** passionate about building scalable APIs and microservices.<br>
+⚡ Skilled in **Java, Spring Boot, Hibernate, and RESTful services**.<br>
+🛠️ Experienced with **MySQL, MongoDB, Redis**, and deploying with **Docker & Cloud**.<br>
+📚 Currently exploring **Microservices, DevOps, and Cloud technologies**.<br>
+🤝 Open to collaborating on **backend projects, open-source, and innovative ideas**.<br>
+🚀 Goal: Contribute to impactful projects and grow into a **15+ LPA Backend Role**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ram-sharma-44ab40266/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/DevRamSharma)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:ramkrsharma2005@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat\&logo=springboot\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat\&logo=mongodb\&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=flat\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat\&logo=github\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 [JobBridge - Job Portal](https://github.com/ramgargya/jobbridge)
+
+🔹 A job portal where companies post jobs & users apply.<br>
+⚙️ **Stack:** Spring Boot, MySQL, Thymeleaf<br>
+✨ **Features:** Authentication, Job Posting, Search & Apply
+
+### 📌 [Expense Tracker](https://github.com/ramgargya/expense-tracker)
+
+🔹 Track daily expenses with categories and analytics.<br>
+⚙️ **Stack:** Spring Boot, MongoDB, REST API<br>
+✨ **Features:** Expense logging, history, and reports
+
+### 📌 [Portfolio Website Backend](https://github.com/ramgargya/portfolio-backend)
+
+🔹 Personal portfolio backend built with Spring Boot.<br>
+⚙️ **Stack:** Spring Boot, MySQL<br>
+✨ **Features:** Resume, Projects, Skills management
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ramgargya\&theme=radical\&show_icons=true\&hide_border=false\&count_private=true)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=ramgargya\&theme=radical\&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramgargya\&theme=radical\&layout=compact\&hide_border=false)
+
+---
+
+## ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+## 📈 Profile Views
+
+[![](https://visitcount.itsvg.in/api?id=ramgargya\&icon=5\&color=1)](https://visitcount.itsvg.in)
+
+---
+
+## 🎯 Fun Extras
+
+* 🌱 I’m currently learning **Mircoservices**
+* 🎧 Love listening to **lofi beats while coding**
+---
+
+<!-- Enhanced and polished version for a professional & interactive GitHub profile -->
