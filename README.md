@@ -1,6 +1,6 @@
 #  About Me
 
- Backend Java Developer passionate about building scalable APIs and microservices.<br>
+ Backend Java Developer passionate about building scalable APIs and microservices.<br>
  Skilled in Java, Spring Boot, Hibernate, and RESTful services.<br>
  Experienced with MySQL, MongoDB, Redis, and deploying with Docker & Cloud.<br>
  Currently exploring Microservices, DevOps, and Cloud technologies.<br>
