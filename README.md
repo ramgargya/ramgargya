@@ -31,13 +31,7 @@
 ![Microservices](https://img.shields.io/badge/microservices-%23007ACC.svg?style=flat&logo=microservices&logoColor=white)
 
 ---
-##  GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ramgargya&theme=radical&show_icons=true&hide_border=false&count_private=true)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=ramgargya&theme=radical&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramgargya&theme=radical&layout=compact&hide_border=false)
-
----
 
 ##  Dev Quote
 
